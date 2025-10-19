@@ -1,15 +1,11 @@
 🕘️更新时间,#genre#
-2025-10-18 06:59:34,https://www.freetv.top/migu/608807420.m3u8?migutoken=2a6c4fb9cc8f7f2e3b74e061cd6015c3fac382e2bed56fc0e7ec642cda0243f33539c8b831a81a788ef263a552c1fc2e83f85c3aca1c5ac20b670cab6b54dd26fb6cfd1adfd5a289207103e06b
+2025-10-19 18:57:20,https://jzb.wwkejishe.top/?id=580
 
 📺央视频道,#genre#
-CCTV-1,https://www.freetv.top/migu/608807420.m3u8?migutoken=2a6c4fb9cc8f7f2e3b74e061cd6015c3fac382e2bed56fc0e7ec642cda0243f33539c8b831a81a788ef263a552c1fc2e83f85c3aca1c5ac20b670cab6b54dd26fb6cfd1adfd5a289207103e06b
-CCTV-2,https://www.freetv.top/migu/631780532.m3u8?migutoken=21b0b254331386fd2e873c577c7a8183378b91f40be551a3c69f5f9162df2a2c63af3d67e9aed59e88a144542b673d3f4a4ca4f2f34225db354a0bf5d26a021b0ce510d7c802082a0f69765c6d
-CCTV-3,https://www.freetv.top/migu/624878271.m3u8?migutoken=26f112920b7d750d5c237dcfeea880c9e4f73d9f9c90ed6628cd1e3b0e4c1424eb700fa97ef3b1a8d3676d047db35285709219d8e971f98e2b095ef2d7c3c343a9df476c13a0daee16c74e7478
 CCTV-3,https://jzb.wwkejishe.top/?id=580
-CCTV-4,https://www.freetv.top/migu/608807419.m3u8?migutoken=6a212f7bbb565d15fa1837af03bca5806c8d1522a2c9b34b1ed1c0f3cd23e6d7c4761bb6b35c9de97d923f603f557e6edb2ee11c80decc83bddea897b5c7ac59a7efea8e4796cbbfcf1b3fc93c
-CCTV-5,https://www.freetv.top/migu/641886683.m3u8?migutoken=07b0c4931b9605a1f5d919c04b761491cc8441c89de4ef653300b0fca459d6285df7d91ed33cd27d0d9f37734d8857e83c5b8fa379272c30c6fa2e0af7f64aba625f148d2e4fad1d65a839e723
 CCTV-5,https://jzb.wwkejishe.top/?id=582
 CCTV-5+,https://www.freetv.top/migu/641886773.m3u8?migutoken=4f1a9fcd002d1813b494eddd61778e103dbe130f4abb409e9032be9917dfd1871014d622a729fd6ffc4e1c376330de3f42c3691e2b49d12f7eb77bdf1887e67a9e6ad438d269a4408f0b3c6bcb
+CCTV-5+,https://jzb.wwkejishe.top/?id=583
 CCTV-6,https://www.freetv.top/migu/624878396.m3u8?migutoken=680307806d82b89a0fb49996b2ac29f029f4acaa517daa479e0e7b48de1925cbaf5d59d33296ab91d331a8f6d9427efbd62c58c14828357513663ce40c85b2fcfc05583339543a10f4a02d75d0
 CCTV-6,https://jzb.wwkejishe.top/?id=584
 CCTV-7,https://www.freetv.top/migu/673168121.m3u8?migutoken=39f299ba0d4c0dd00c89550497da4b7b2de0752f52a9831160904f0fa48d0e4f14936c2d2e794d39ef3d9fec119c22460c845abc4c1f894d73f27e21754ec4a1aec51a4285c036e5a6febf8b71
@@ -24,29 +20,27 @@ CCTV-12,https://www.freetv.top/migu/673168185.m3u8?migutoken=76bebb6e232f0fab225
 CCTV-12,https://jzb.wwkejishe.top/?id=590
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV-13,https://epg.pw/stream/5d3d047c64e44d0a24dc33e5700e579457201d2960036b43819bd930a0bb76a7.m3u8
-CCTV-13,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8
 CCTV-13,http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8
-CCTV-14,https://www.freetv.top/migu/624878440.m3u8?migutoken=85e854e85508f09545d95114a17c9609e15d0861306d1ddf01f1bcbe68f219f42ea58ab68946b738d64e5ce4933ecf5e23d08385f008f3c5b8552da1a620dc66ffa5cd7fb95a830ab4db88db85
+CCTV-13,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
-CCTV-15,https://www.freetv.top/migu/673168223.m3u8?migutoken=ecd60d6a580d9f4027ec08213b2a5beffae7f99e3e556123f72b08c8d0bedb77620cbbc5d72108ff458b15f605abc992ccdc991b35dd34802a57ca114b8f7875c9bce1ddfe5bd6775f12be875a
 CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d79772d9e70d454.m3u8
 CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=cd9ac55fddf5f22ac004018cec6a4046c41dd9f4fc2bf0d97a30aaddef8a88da0e984cf03e60fa6a6adcb81d784905e343fb6a9dae398827b1b71b5164b118d15f6762b07225d4764bce858c33
 CCTV-17,https://jzb.wwkejishe.top/?id=594
-CETV-1,https://migu.188766.xyz/
 
 💰央视付费频道,#genre#
 央视台球,https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8
 第一剧场,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
 
 📡卫视频道,#genre#
+香港卫视,https://migu.188766.xyz/
 湖北卫视,https://jzb.wwkejishe.top/?id=604
 黑龙江卫视,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
 东方卫视,https://www.freetv.top/migu/651632648.m3u8?migutoken=1b29e441e8d640f9f4d3b7f1798bd6cd0036bcfcab7fb7353718a02767b7d7a91bd78405a1b2ae2b5a477e2b6964c8e1c10e40b15cf06fc2a353f8968e69c78ea27ea0e65ab6eaf17ed9e0b8bc
 东方卫视,https://epg.pw/stream/6aec3ea636542c53729b5c9dd290864ab04d4a69d2b9cb7864a9898779915898.m3u8
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
-甘肃卫视,https://jzb.wwkejishe.top/?id=622
 广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
 河北卫视,https://jwplay.hebyun.com.cn/live/hbwstv/1500k/tzwj_video.m3u8
+吉林卫视,https://jzb.wwkejishe.top/?id=601
 江西卫视,https://www.freetv.top/migu/783847495.m3u8?migutoken=a3e8d180650039495772db9c034f0598699bcd1a8f5dc386eaa2c7d88903420abcbfaf48d69a26351e436e9c23fb61b8acd6b9690d2aa41f2283d57f444c9c3f1be3e8af5c2aa87d7060804394
 内蒙古卫视,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 山西卫视,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
@@ -73,8 +67,8 @@ CETV-1,https://migu.188766.xyz/
 浙江青田,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8?zzhed
 诸暨新闻综合,https://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8
 龙游生活娱乐,https://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
-龙游新闻综合,http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8?zzhed
 龙游新闻综合,https://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
+龙游新闻综合,http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8?zzhed
 萧山生活,https://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
 萧山新闻综合,https://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
 缙云综合,http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8?zzhed
@@ -102,6 +96,7 @@ CETV-1,https://migu.188766.xyz/
 ☘️江苏频道,#genre#
 新沂新闻,http://live.xysrmt.cn/xwzh/sd/live.m3u8?zjiangsd"
 新沂生活,http://live.xysrmt.cn/shpd/sd/live.m3u8?zjiangsd
+无锡新闻综合,http://m.m3u8.wifiwx.com/live/wifiwx-239.m3u8?zjiangsd
 江苏教育,https://mgtv.ottiptv.cc/migu/628008321.m3u8?migutoken=2a14b3aabc488208548ee93104e880b74d4a395bfa44d7066aecd401da116ee25176f823087e3b4982d4720bd660d81bfff58ed9193c1df26c94a3e4f7a6c10952e5d975a5e4f6244fd9dcc62d
 淮阴综合,https://huaiyin-tv-replay.cm.jstv.com/huaiyin-tv/huaiyinf.m3u8
 靖江新闻综合,http://ls.qingting.fm/live/23797.m3u8
@@ -132,11 +127,11 @@ CETV-1,https://migu.188766.xyz/
 荥经综合,https://file.ysxtv.cn/nmip-media/channellive/channel101492/playlist.m3u8
 
 ☘️陕西频道,#genre#
+陕西新闻资讯,https://mgtv.ottiptv.cc/migu/956909289.m3u8?migutoken=f3e1b1193a295afe6ff6534135f5d46309e31e8840d10aabda11138684b6dbd033adc8afced57b20ec3e47ac1597abb6c7da19215deeba89a5b2fe7ec05de31827ff4345c08bf41e3b9d68ddbe
 陕西公共,http://ls.qingting.fm/live/1222.m3u8
 
 ☘️福建频道,#genre#
 三明新闻综合,https://ls.qingting.fm/live/5022100/64k.m3u8
-三明新闻综合,http://ls.qingting.fm/live/4885.m3u8
 云霄综合,http://live.zzyxxw.com:85/live/xwzh.m3u8?fujian,
 福州少儿,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
 
@@ -208,6 +203,8 @@ CETV-1,https://migu.188766.xyz/
 
 ☘️青海频道,#genre#
 安多卫视,rtmp://liveout.xntv.tv/a65jur/96iln2
+安多卫视,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd
+西宁新闻综合,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd#https://liveout.xntv.tv/a65jur/90p2i1.m3u8#http://dtrmlive.qhdtrm.cn/xnds/sd/live.m3u8
 青海综合,http://lmt.scqstv.com/live1/live1.m3u8
 
 ☘️黑龙江频道,#genre#
@@ -215,8 +212,8 @@ CETV-1,https://migu.188766.xyz/
 
 🌊港·澳·台,#genre#
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
-明珠台,https://mytv.cdn.loc.cc/o12.php?id=mzt
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+凤凰中文,https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixtv_hd
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰香港,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
 凤凰香港,https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.m3u8
@@ -231,15 +228,18 @@ Now剧集,http://pullpackage.alivecdn.com/live/B9AKX0X3gSWZVv91H6UZDdsYyM8Fie9Hv
 🎬电影频道,#genre#
 纬来电影,https://smart.pendy.dpdns.org/Smart.php?id=videolandmovie
 纬来电影,http://pullpackage.alivecdn.com/live/LIjQbqWr0oCfwR6SjWMVXyUh5m1qsJgqORFprvbBloK6NfqVBD.flv
+天映经典,http://php.jdshipin.com:8880/smt.php?id=Celestial2
+天映经典,https://smt.1678520.xyz/smt3.2.1.php?id=Celestial2
+无线星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 
 🎥咪咕直播,#genre#
 
 🏀体育频道,#genre#
 五星体育,https://other.ottiptv.cc/wxty.m3u8
-劲爆体育,https://www.freetv.top/migu/796071336.m3u8?migutoken=1cc947d86cb584c31c31c88c005d55965238dbfff7ed75fca8451aed0b564786fde7e4b327e93b92dc96ef57e64e3bb56e8a9e921338080cdae817cb6125d8450b687659ecfee06be9c5d53ac6
 精品体育,https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8
 
 🪁动画频道,#genre#
+火影忍者,http://cdn.jdshipin.com:8880/huya.php?id=29465866
 海绵宝宝,https://live.metshop.top/douyu/3949681
 漫画解说,https://www.goodiptv.club/douyu/5907076
 
